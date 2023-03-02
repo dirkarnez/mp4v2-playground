@@ -17,7 +17,7 @@ SET PATH=^
 
 cmake.exe -G"MinGW Makefiles" ^
 -DCMAKE_BUILD_TYPE=Debug ^
--Dmp4v2_ROOT="%DOWNLOADS_DIR_LINUX%/mp4v2-v2.1.1-x86_64-posix-seh-rev0-8.1.0" ^
+-Dmp4v2_ROOT="%DOWNLOADS_DIR_LINUX%/mp4v2-v2.1.1-mingw64-x86_64-posix-seh-rev0-8.1.0" ^
 -B./build &&^
 cd build &&^
 cmake --build . &&^
