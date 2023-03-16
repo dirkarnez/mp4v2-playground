@@ -47,6 +47,9 @@ int main()
     x264_picture_init(&pic_out);
     x264_picture_alloc(&pic_in, param.i_csp, param.i_width, param.i_height);
 
+    pic_in.i_type = X264_TYPE_AUTO;
+    pic_in.i_qpplus1 = 0;
+    
     // Generate random content
     for (int i = 0; i < 100; i++)
     {
