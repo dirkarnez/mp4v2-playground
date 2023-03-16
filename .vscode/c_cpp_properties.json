@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "${env:USERPROFILE}\\Downloads\\mp4v2-v2.1.1-mingw64-x86_64-posix-seh-rev0-8.1.0\\include\\**"
+                "${env:USERPROFILE}\\Downloads\\mp4v2-v2.1.1-mingw64-x86_64-posix-seh-rev0-8.1.0\\include\\**",
+                "${env:USERPROFILE}\\Downloads\\x264-cbaee400fa9ced6f5481a728138fed6e867b0ff7f-x86_64-posix-seh-rev0-8.1.0\\include\\**"
             ],
             "defines": [
                 "_DEBUG",
