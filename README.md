@@ -22,3 +22,12 @@ mp4v2-playground
 - https://blog.csdn.net/SerenityMoon/article/details/52174471
 - https://github.com/jjzhang166/Mp4-demo/blob/30ee01d82be21ad8df2294b5c7798768896a38f0/CMp4Encoder.cpp
 - **https://github.com/Arcko/freepiano/blob/7ddaaff5a0712b811f24b7bc42f07abeefcb659c/src/export_mp4.cpp**
+- [**atgsdjb/SeraphimRecoder**](https://github.com/atgsdjb/SeraphimRecoder)
+- [**SeraphimRecoder/root.cpp at b646b93ae2b229a049335f6d73d9bf73be5ecc2d · jjzhang166/SeraphimRecoder**](https://github.com/jjzhang166/SeraphimRecoder/blob/b646b93ae2b229a049335f6d73d9bf73be5ecc2d/jni/mp4v2/root.cpp)
+- [**SeraphBaseCpp/root.cpp at 361730e157db03a255c3721d96595a16e048afab · atgsdjb/SeraphBaseCpp**](https://github.com/atgsdjb/SeraphBaseCpp/blob/361730e157db03a255c3721d96595a16e048afab/SeraphMedia/seraphim/root.cpp)
+- [**cyrilgramblicka/X264RecorderPlugin: X264 video recorder plugin for Outerra engine.**](https://github.com/cyrilgramblicka/X264RecorderPlugin)
+- [**Arcko/freepiano: Fork from https://sourceforge.net/p/freepiano/code/ci/master/tree/**](https://github.com/Arcko/freepiano)
+- [**Energy0124/freepiano: Play piano using your computer keyboard.**](https://github.com/Energy0124/freepiano)
+- [**RDVEUIDemo/Mp4Container.cpp at bb745c4c6d0141172a87ad937eb523190dc05d91 · wemmet/RDVEUIDemo**](https://github.com/wemmet/RDVEUIDemo/blob/bb745c4c6d0141172a87ad937eb523190dc05d91/RDVEDemo/TSAVI2MP4/TSAVI2MP4/MediaFileFormatConvert/Mp4Container.cpp)
+- [**wangzuxing/MyFFmpegH264H265YUVOpenGL: ffmpeg + x264+ x265 + libde265 + opengl es display**](https://github.com/wangzuxing/MyFFmpegH264H265YUVOpenGL)
+- [**tiwb/xfmp4 at 9db01f61c63943a6f338b8fac43aef5dbae51658**](https://github.com/tiwb/xfmp4/tree/9db01f61c63943a6f338b8fac43aef5dbae51658)
