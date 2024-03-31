@@ -31,3 +31,6 @@ mp4v2-playground
 - [**RDVEUIDemo/Mp4Container.cpp at bb745c4c6d0141172a87ad937eb523190dc05d91 · wemmet/RDVEUIDemo**](https://github.com/wemmet/RDVEUIDemo/blob/bb745c4c6d0141172a87ad937eb523190dc05d91/RDVEDemo/TSAVI2MP4/TSAVI2MP4/MediaFileFormatConvert/Mp4Container.cpp)
 - [**wangzuxing/MyFFmpegH264H265YUVOpenGL: ffmpeg + x264+ x265 + libde265 + opengl es display**](https://github.com/wangzuxing/MyFFmpegH264H265YUVOpenGL)
 - [**tiwb/xfmp4 at 9db01f61c63943a6f338b8fac43aef5dbae51658**](https://github.com/tiwb/xfmp4/tree/9db01f61c63943a6f338b8fac43aef5dbae51658)
+
+### Embeded
+- [Unturned3/h264enc_demo: HW accelerated h264 encoding on the Allwinner V3s w/ mainline Linux](https://github.com/Unturned3/h264enc_demo)
